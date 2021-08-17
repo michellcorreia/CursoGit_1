@@ -21,6 +21,6 @@ Combinando  -> _**teste**_</br>
 3. Sistema de bônus primeira compra
 
 
-##Imagem
+## Imagem
 
-![PostGreSQL-imagem](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![Botão-Img](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
