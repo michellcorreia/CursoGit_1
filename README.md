@@ -13,6 +13,6 @@ Melhoria 1, melhoria 2
 
 # Markdown
 
-Itálico     -> *teste*
-Negrito     -> **teste**
-Combinando  -> _**teste**_
+<p>Itálico     -> *teste*</p>
+<p>Negrito     -> **teste**</p>
+<p>Combinando  -> _**teste**_</p>
