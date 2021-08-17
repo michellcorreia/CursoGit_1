@@ -19,3 +19,8 @@ Combinando  -> _**teste**_</br>
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+
+##Imagem
+
+![PostGreSQL-imagem](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
