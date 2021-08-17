@@ -13,6 +13,9 @@ Combinando  -> _**teste**_</br>
 * C#
 
 ### Lista Ordenada
-1. JavaScript
-2. HTML
-3. CSS
+1. Area de membros
+    1. Login do cliente
+    2. Desconto especial para grupos de cliente
+    3. CSS diferente para grupos de cliente
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
