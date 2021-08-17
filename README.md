@@ -24,3 +24,8 @@ Combinando  -> _**teste**_</br>
 ## Imagem
 
 ![Botão-Img](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+## Links
+
+[Google](https://www.google.com)
