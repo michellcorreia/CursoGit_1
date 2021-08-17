@@ -39,3 +39,10 @@ public Double soma(double a, double b){
     return a + b;
 }
 ```
+
+## Lista de tarefas à fazer:
+
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistems de bônus
+- [x] CSS no rodapé
